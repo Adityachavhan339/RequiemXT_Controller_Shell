@@ -14,7 +14,7 @@ With Tears 🥲, Let's Be Real Me And Art Are Mortal enemies and will always be,
 
 <img width="1645" height="836" alt="Screenshot_20261018_155839" src="https://github.com/user-attachments/assets/4a0cac0d-9b95-47f1-8b23-c87e48eb1361" />
 
-O and Back Buttons lets ignore those as i have no idea what to do with extra 2 buttons ( i am not adding analog triggers in controller only standard buttons
+O and Back Buttons lets ignore those as i have no idea what to do with extra 2 buttons ( i am not adding analog triggers in controller only standard buttons)
 
 (i don't know what else to write so here is last image)
 
