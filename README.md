@@ -22,3 +22,5 @@ O and Back Buttons lets ignore those as i have no idea what to do with extra 2 b
 
 ## AI DISCLOSURE
 Come on i don't even know how i can use AI in OnShape. I Made It AI was not of much use in this part.
+
+Public OnShape LINK: https://cad.onshape.com/documents/c3fd92381681fe47c101a1b2/w/47550ceb7eb8264582adb021/e/4cd9fb30f0d14bfbd5d2ce99
